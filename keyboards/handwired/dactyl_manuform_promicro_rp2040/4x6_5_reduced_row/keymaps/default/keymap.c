@@ -59,7 +59,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                           KC_NO,   KC_NO,   KC_NO,   KC_NO,         KC_NO,     KC_NO,   KC_NO,   KC_NO
     ),
     [FPSGAME] = LAYOUT_split_4x6_5(
-        KC_TAB,  KC_1,    KC_2,    KC_3,    KC_4,    KC_5,          KC_6,      KC_7,    KC_8,    KC_F9,    KC_0,   KC_NO,
+        KC_TAB,  KC_1,    KC_2,    KC_3,    KC_4,    KC_5,          KC_6,      KC_7,    KC_8,    KC_9,    KC_0,   KC_NO,
         KC_LCTL, KC_Q,    KC_W,    KC_E,    KC_R,    KC_T,          KC_NO,     KC_NO,   KC_NO,   KC_NO,    KC_NO,  KC_NO,
         KC_LSFT, KC_A,    KC_S,    KC_D,    KC_F,    KC_G,          KC_NO,     KC_NO,   KC_NO,   KC_NO,    KC_NO,  KC_NO,
                           KC_Z,    KC_X,    KC_SPC,                            KC_BSPC, KC_NO,   KC_NO,
